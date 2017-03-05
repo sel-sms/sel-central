@@ -20,14 +20,14 @@ include('slider.php');
 </div>
 </div>
 <div class=" howitwork getstart"  >
-            <div class="container">
+	<div class="container">
                     <div class=" col-md-4" style="    padding-left: 10%;">
 <img width="400" src="banner/working-freelancer-germany.jpeg" />                    </div>
                     <div class=" col-md-6" style="float:right">
                             <h1>Get Started</h1>
                             <p>Your can use our website as a hub to find any kind of resource you might need! Browse through hundreds of profiles to find just what you’re looking for, all in three quick and easy steps: Sign Up, Search, and Select!  </p>
                     </div>
-            </div>
+	 </div>
 </div>
 
 <div class="belowslider" >
